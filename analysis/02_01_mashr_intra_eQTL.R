@@ -1,13 +1,12 @@
 # Lung Cancer eQTL - mashr pipeline
 # 20240311 Hyungtai Sim
+# the files for this analysis is partially provided (only joined_all_results.txt.gz) in github due to size issues. please contact us if needed.
 
 vlib = c("tidyverse", "mashr", "ashr", "ggpubr", "data.table", 
          "future.apply", "arrow")
 lapply(vlib, require, character.only = TRUE, quietly = TRUE) |> suppressMessages()
 
-base.dir = ""
-
-setwd(paste0(base.dir, "202404-sceQTLv7/"))
+base.dir = "."
 
 
 ## create data for one gene
@@ -16,7 +15,7 @@ fname_meta = paste0(base.dir, 'analysis/assets/file_meta.txt')
 df_meta = read_delim(fname_meta, col_names = c("levels", "time", "cluster_name")) %>% 
   mutate(prefix_file = paste0(levels, "_", time, "_", cluster_name))
 
-df_meta_target = df_meta %>% filter(levels == "anno_l1")
+df_meta_target = df_meta
 
 df_meta_significant = df_meta_target %>%
   mutate(fname = paste0("01_calling_eQTL/01_01_tensorqtl_out/", prefix_file,".map_cis.txt.gz"))
