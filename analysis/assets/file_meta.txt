@@ -1,0 +1,16 @@
+anno_l1	1st	B
+anno_l1	1st	CD4
+anno_l1	1st	CD8
+anno_l1	1st	DC
+anno_l1	1st	Mono
+anno_l1	1st	NK
+anno_l1	1st	Other_T
+anno_l1	1st	Other
+anno_l1	base	B
+anno_l1	base	CD4
+anno_l1	base	CD8
+anno_l1	base	DC
+anno_l1	base	Mono
+anno_l1	base	NK
+anno_l1	base	Other_T
+anno_l1	base	Other
