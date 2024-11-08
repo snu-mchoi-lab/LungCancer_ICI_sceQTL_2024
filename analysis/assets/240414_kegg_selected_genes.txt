@@ -1,0 +1,61 @@
+TAP2	Antigen Processing
+TAP1	Antigen Processing
+TAPBP	Antigen Processing
+HLA-DQB1	Antigen Processing
+LCP2	Antigen Processing
+CALR	Antigen Processing
+ARPC5L	Antigen Processing
+HLA-DRB5	Antigen Processing
+HLA-C	Antigen Processing
+HLA-A	Antigen Processing
+HLA-B	Antigen Processing
+CANX	Antigen Processing
+HLA-DPB1	Antigen Processing
+PSME1	Antigen Processing
+HLA-DRB1	Antigen Processing
+PPP3R1	Antigen Processing
+NCK2	Antigen Processing
+CTSB	Cell death related
+JUN	Cell death related
+HSPA5	Cell death related
+ACTN1	Cell death related
+GSK3B	Cell death related
+TRADD	Cell death related
+PAK2	Cell death related
+BCL2L1	Cell death related
+KRAS	Cell death related
+BIRC3	Cell death related
+CD44	Cell death related
+RAC2	Cell death related
+FYN	Cell death related
+PTPN6	Cytokine signaling
+CD74	Cytokine signaling
+IL10RA	Cytokine signaling
+TNFAIP3	Cytokine signaling
+PIK3R5	Cytokine signaling
+ADAR	Cytokine signaling
+PPP3CA	Cytokine signaling
+STAT1	Cytokine signaling
+FOS	Cytokine signaling
+CYBA	Cytokine signaling
+PRKCA	Cytokine signaling
+PIK3R1	Cytokine signaling
+IFNAR1	Cytokine signaling
+PXN	Cytokine signaling
+CCL5	Cytokine signaling
+PIM1	Cytokine signaling
+JAK3	Cytokine signaling
+ACTB	Immune Cell Regulation
+RAP1A	Immune Cell Regulation
+PSTPIP1	Immune Cell Regulation
+CFL1	Immune Cell Regulation
+CD37	Immune Cell Regulation
+ARPC5	Immune Cell Regulation
+CDC42	Immune Cell Regulation
+VASP	Immune Cell Regulation
+CREB1	Immune Cell Regulation
+ARPC4	Immune Cell Regulation
+ITGB2	Immune Cell Regulation
+INPP5D	Immune Cell Regulation
+ATG5	Immune Cell Regulation
+CD55	Immune Cell Regulation
