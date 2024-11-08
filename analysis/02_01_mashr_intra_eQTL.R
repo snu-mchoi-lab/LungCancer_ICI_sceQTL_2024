@@ -7,6 +7,7 @@ vlib = c("tidyverse", "mashr", "ashr", "ggpubr", "data.table",
 lapply(vlib, require, character.only = TRUE, quietly = TRUE) |> suppressMessages()
 
 base.dir = "."
+setwd(base.dir)
 
 
 ## create data for one gene
