@@ -1,0 +1,8 @@
+*.gz
+*.pdf
+*pth
+*temp*
+*revision*
+*.graphml
+*.rds
+analysis/assets/module_assignment_network/BIOGRID-MV-Physical-4.4.243.tab3.zip
